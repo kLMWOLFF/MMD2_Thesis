@@ -1,0 +1,2 @@
+- Snow_rain particles - https://web.archive.org/web/20230427194242/https://imgur.com/UVNCC
+- https://minecraft.fandom.com/wiki/Weather?file=Lightning.png
