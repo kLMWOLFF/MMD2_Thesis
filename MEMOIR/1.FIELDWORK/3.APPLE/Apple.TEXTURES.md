@@ -231,6 +231,7 @@ https://www.linkedin.com/pulse/my-take-apples-liquid-glass-fateh-alam-bhatty-nqd
 ### Dynamics
 - rounded floating forms nest neatly in the rounded curves of devices hardware
 - Clearly defined shapes feel easy to tap and are designed to relate to the natural geometry of our fingers so they feel friendly to touch interaction.
+
 - Liquid Glass visual definition: **Lensing** - phenomenon happening all around us in the natural world. "Through this experience we've all gained an intuitive understanding of how the warping and bending of light of a transparent object communicates to us its presence, its motion and form.
 Liquid glass uses these instinctive visual cues to provide separation and communicate layering, while allowing content shine through it.
 This new material bends, shapes and concentrates light in real time, providing definition against the background while still feeling visually grounded in our experience of the natural world.
@@ -262,6 +263,7 @@ This fluidity helps the interface feel aligned with the dynamism and continually
     - change between dark and light modes
 
 - When glass flexes and morphs to larger sizes, its material characteristics change to simulate a thicker, more substantial material (richer, deeper shadows, more pronounced lensing and refraction effects and a softer scattering of light).
+
 - LiquidGlass forms a distinct control layer, that flow above content.
 
 - On larger elements like sidebars, the apperance of Liquid Glass changes with the ambient environment within the app: light from colorful content nearby can subtly spill into its surface and shadows, reinforcing the material context and its sense of elevation within the interface.
@@ -311,10 +313,10 @@ Main information layer, positioning itself under the rest.
 **Liquid Glass variants**
 LG variants should never be mixed, as they have their own characteristics and specific use cases.
 
-- Regular
+- *Regular*
 Most versatile: give all the visuals and adaptive effects while providing legibility, regadless of context. Works on any size, over any content and anything can be placed on top of it.
 
-- Clear
+- *Clear*
 Does not have adaptive behaviors. It is permantly more transparent. Should only be used when these 3 conditions are met:
     - media rich content
     - content would not be negatively affected by introducing a diming layer to it

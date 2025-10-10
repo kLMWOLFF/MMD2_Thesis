@@ -1,4 +1,5 @@
 # TEXTURES
+
 *(Fonte: https://minecraft.fandom.com/wiki/Textures)*
 
 Textures in Minecraft are images applied to blocks, items, entities, particles and GUI that allow players to recognize it. 
@@ -62,3 +63,45 @@ Pop-up menu used by the player to manage items they carry: equip armor, craft it
 🟦 Functional objects (crafting table, furnace, chest, bed, torch)
 
 🟧 Resources / environment (ores, sand, leaves, water, lava)
+
+
+**Minecraft 1.21 (Java)**
+
+The “Category: Entity textures” on the Minecraft Wiki includes hundreds of texture files. 
+    https://minecraft.wiki/w/Category%3AEntity_textures?utm_source=chatgpt.com
+
+The “Particle textures” (static + dynamic) category has 187 different texture files listed. 
+    https://minecraft.wiki/w/Category%3AParticle_textures?utm_source=chatgpt.com
+
+A community-maintained list claims that in Survival mode (i.e. excluding creative-only items), as of Minecraft 1.21.4 Java, there are 1,582 obtainable items and blocks. 
+    https://www.reddit.com/r/Minecraft/comments/1i7zp3j/list_of_everything_in_minecraft_survival_1214/?tl=fil&utm_source=chatgpt.com
+
+The Minecraft Wiki’s “Item” page states that as of 1.20, there are 1,643 items (excluding block items) in the game.
+    https://minecraft.fandom.com/wiki/Item?utm_source=chatgpt.com
+
+        OVERALL ESTIMATE
+        - ~1,650-1,700 distinct blocks + items (including creative-only) as earlier estimate
+
+        - Entity (animals / NPCs / mobs) textures — suppose there are ~300-400 different entity texture files (mobs, items worn, animations etc.)
+
+        - Particle textures (~180-200) 
+
+        ≈ 2,200 to 2,300 distinct texture files / distinct object/entity/particle textures in Minecraft 1.21 (Java)
+
+Minecraft has ~2,200–2,300 distinct textures, only a fraction of them actually correspond to unique in-game behaviors or logics.
+
+Textures in Minecraft can be grouped into two broad categories:
+
+🧱 1. Purely decorative or material-variant textures
+
+These make up the majority, around 70–80% of all textures.
+They look different but behave identically — e.g. 16 colored terracotta blocks, 8 wood types, glazed terracotta variants, banners, carpets, etc.
+
+→ Roughly 1,600–1,800 textures fall into this category.
+
+⚙️ 2. Behavior-linked textures
+
+These are textures associated with distinct logic, mechanics, or interactivity.
+You can think of these as “classes of behavior.”
+
+[text](<MineCraft Textures.csv>)

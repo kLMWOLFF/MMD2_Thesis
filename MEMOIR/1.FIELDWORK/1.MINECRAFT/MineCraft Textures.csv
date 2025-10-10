@@ -1,0 +1,10 @@
+﻿Category,Example,Approx. count of unique behaviors
+Functional blocks,"Furnaces, doors, pistons, hoppers, enchanting table, brewing stand",80-100
+Redstone components,"Dust, repeaters, comparators, observers, target block",15-20
+Fluids & flowing logic,"Water, lava, powder snow",3-5
+Interactive containers,"Chests, barrels, shulker boxes",10
+Crop / growth / environmental,"Wheat, sugarcane, bamboo, coral, kelp, moss",20-30
+Mobs / entities,"Passive, neutral, hostile, boss, NPC, rideable, tameable, fish, golem, villager profession, etc.",80-100 behaviors (depending on how granular you are)
+Projectiles & weapons,"Arrows, tridents, snowballs, potions",10-15
+Particles / visual behavior linked to effects,"Smoke, redstone, enchantment, explosion",20-30
+"World logic (plants, light, portals)","Fire, end portal, nether portal, beacon beam, command block, structure block",15-20

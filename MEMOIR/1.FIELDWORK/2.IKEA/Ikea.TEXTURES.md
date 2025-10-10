@@ -1,5 +1,56 @@
 # TEXTURES
 
+## What exactly is IKEA Kreativ
+
+IKEA Kreativ is IKEA’s 3D and AR design platform that allows users to place IKEA products into virtual scenes and create showrooms. It contains 3D models and offers two modes: free design and inspirational showrooms — but not all products currently have 3D models available in Kreativ (IKEA adds them progressively).
+https://www.ikea.com/us/en/customer-service/knowledge/articles/b548fdg1-8c6f-448e-97c5-6f78e114c504.html?utm_source=chatgpt.com
+
+## Goal of the IKEA sub-study
+
+To compare the tactile representation of a small sample of materials in the digital catalog (IKEA Kreativ) versus their tactile experience in-store, in order to map correspondences and mismatches (what digital “says” vs what the body “reads”),
+
+## Sampling strategy
+
+Selection of 8 of the most common materials/finishes across IKEA’s product categories, chosen using 3 criteria:
+
+*High tactile frequency* — surfaces users often touch (chairs, handles, table tops).
+
+*Variety of tactile properties* — cover key axes such as hardness, roughness, elasticity, temperature perception, grain.
+
+*Availability in Kreativ* — prioritize products that already exist in Kreativ (to avoid missing 3D models in the dataset).
+
+The goal is to cover the tactile spectrum, not to exhaust all materials.
+
+## Texture Bestiary (Kreativ Catalog):
+
+1. Oak veneer
+2. Laminate (Particleboard)
+3. Cotton fabric
+4. Synthetic fabric (Polyester)
+5. stainless steel
+6. Plastic (Polypropylene)
+7. Glass
+8. Ceramic (Stoneware)
+
+
+> In-store tactile tests (12–20 participants):
+1. Photograph or note the product reference.
+
+2. 3D test. Show the participants the Kreativ 3D models and ask them to describe them:
+    
+    > Free descriptors: participants list three words to describe the sensation.
+
+    > Semantic - rough–smooth, hard–soft, warm–cold, natural–synthetic, pleasant–unpleasant (7-point scale).
+
+3. Tactile test. Ask users to touch objects and describe them: 
+    > Free descriptors: participants list three words to describe the sensation.
+
+    > Semantic - rough–smooth, hard–soft, warm–cold, natural–synthetic, pleasant–unpleasant (7-point scale).
+
+    > Photograph of the product context (affordances, where the touch happens).
+
+
+## Review:
 Textures in IKEA Kreativ are digital materials created to mimic materials used on physical products. It aims to blur the boundary between browsing/visualization and purchase by enabling texture / material swapping / visual customization, making those choices more immediate and less speculative.
 
 The app combines 3D, AR, AI, and computer vision to let customers:
