@@ -1,3 +1,20 @@
+Introduction
+State of the Art: Touch and Texture definitions 
+Digital vs Physical Touch 
+Digital vs Physical Textures/Materials
+Digital interactions mapping
+Touch and Texture: Case studies
+VIDEO GAMES - Minecraft
+UI - Apple Liquid Glass
+DIGITAL PROTOTYPING - Ikea Kreativ
+Augmented Touch
+Definition of augmented touch
+Tactile interfaces
+Tangible UI
+Haptics
+Digital Tools Glossary
+Conclusion
+
 Chapter 1 - State of the Art: Touch and Texture interactions
 In this chapter we will dive into the definition of Touch and Texture, unveil their tensions and motivations, try to uncover what is it that makes touch interesting to interactions and analyse examples on how designs make use of materiality to evoque these two concepts in digital and physical formats. 
 Miro - How did you choose the 3 main areas?
@@ -12,6 +29,31 @@ What is touch in digital twins?
 - Embodied Cognition (Maurice Merleau-Ponty on how the body is central to experiencing the world and media.)
 - Laura Marks vs Condillac
 - Body in Code by Mark Hansen Hansen
+
+
+Condillac tell us that the sensation of touch is fractionated, as it can be felt independently through different parts of one’s body:
+
+Supposons, par exemple, qu’elle sente en même temps de la chaleur à un bras, du froid à l’autre, une douleur à la tête, un chatouillement aux pieds, un frémissement dans les entrailles, etc. ; je crois qu’elle remarquera ces manières d’être, pourvu qu’elle les ait connues séparément, et qu’aucune ne dominant sur les autres, l’attention se partage également entre elles.
+(Condillac, traité des sensations pg 83)
+Also, that the understanding of a body is formed by the contrast felt between this one and the other bodies surrounding it, in a succession of touching surfaces and feelings. This means that Touch is not a feeling that can be appropriated at once, but demands movement, time and comparison between different input stimuli in order to be made whole.
+If the body (as we understand it, as one whole entity) is a succession of me-bodies and not-me-bodies, shaping this first by its absence; than we can say that the sensation of Touch itself is a succession of sensations as well.
+Sensations are a way of being. The one capable of experimenting with them is also capable of existing, as we exist through our senses. Being able to feel a sensation means identifying the modifications surrounding our body. The different parts of our body, as the different feelings of touch that can be experienced by each one of those, are parts of ourselves - being (a whole being) means being able to perceive our fractionated selves as one (building links of perception between body parts and senses).
+In the beginning, we don’t know that we are composed of parts that can bend one over the other or place themselves over external objects. Thanks to our own movements we are able to discover that we have a body and that others exist beyond it as well.
+Impenetrability is not a sensation, it’s a judgement, achieved by different sensations, specially that of exclusion, between two bodies.
+Physical bodies are impenetrable. That’s their nature, understood by us through sensations (tactile properties) such as solidity - the resistance two bodies have against each other - denying to share the same space. That logic is lost with digital bodies, they can penetrate each other, self confusing visually and still remaining independent, being able to define or rebuild themselves thanks to a number of other specifically digital tactile properties such as shared materials, linked vertexes, superimposed geometry, etc.
+If we touch two different parts of ourselves, we will be able to identify them and meet ourselves through different properties at the same time:
+Que la main soit froide, par exemple, et que la poitrine soit chaude, la statue les sentira comme quelque chose de solide et de froid qui touche quelque chose de solide et de chaud : elle apprendra à rapporter le froid à la main, la chaleur à la poitrine, et elle en distingue mieux l’une de l’autre. Ainsi ces deux sensations, peu propres par elles-mêmes à faire connaître à la statue qu’elle a un corps, contribueront cependant à lui en donner une idée plus sensible, lorsqu’elles seront enveloppées dans la sensation de solidité.
+(Pg. 91)
+If we touch one part/body after the other without touching anything in between, we will be able to apprehend each as different parts but not as parts of the same body. That is because the sensations those evoque are not continuous. If we run our touch through the whole space in between these different parts though, we are able to feel each part as a continuation of each other and of the self, reunited and wholeified by sensation/sensibility. In this case the sensation of solidity evidentiates two different things at the same time: exclusion and connection.
+As long as we only touch parts of our own body, we can only recognize the extension of our own existence. It’s the moment a part of our body touches an external body, one that does not respond as part of ourself, that the cut/distinction between me and others happens.
+In that sense, we don’t really feel other bodies, we only identify the other by our own sensations. When different sensations are circumscribed within our continuous touch, that's when we are able to identify the body and qualities of a different body.
+Elle prend donc, quitte et reprend tout ce qui est autour d’elle : elle se saisit, elle se compare avec les objets qu’elle touche ; et à mesure qu’elle se fait des idées plus exactes, son corps, et les objets lui paraissent se former sous ses mains.
+(Pg. 92)
+Ato de tatear 
+
+
+
+
 
 TEXTURE
 What is a texture in physical design interactions?
@@ -75,29 +117,30 @@ Highlight behavior: Responds to environmental light, touch, and device motion. H
 [Conclusion]
 It adds more visual tactility. Interesting that the way it chose to make it look real and blending with the physical environment was to play with its tactual properties. Touch remains an important tool of exploration and understanding reality.
 - Mary Laure Ryan Virtual Reality and Literary Theory or Narrative as Virtual Reality
-Users will start demanding more sensory-driven experiences.
+Users may start demanding more sensory-driven experiences.
 
 It's about testing spatial computing possibilities.
 
 IKEA KREATIV
-The third and last case study of this research, IKEA Kreativ (2022) was chosen to bring the point of view of digital twins on digital textures and touch and to bridge the way into the last chapter, that will approach tactile interfaces to touch the digital. This field plays an important position in the realm of digital textures as it works closely with digital and physical materials, constantly having to translate both between each other. After a considerable hype on products being sold for social media posting and video games, especially in the fashion sector; the digital twins have steadily built their position in the production sector through digital prototyping. As far as it goes though, most of these processes remain restricted to the design and production backstages, making their way to the public through the form of virtual try-ons only. As the interest of this thesis remains in studying interactions built for broad audiences, this case study will focus on how IKEA approaches its products digital twins and how those are perceived by users in comparison to their physical experiences with the same products. 
-IKEA Kreativ is an application that allows users to decorate a virtual space (be it a Generic showroom or photogrametric version of their own space) with IKEA furniture. Each 3D object inserted in the scene comes with its own texture, as well as their variants options (shown as picture icons). The only affordances conceived to the user for interacting with Kreativ textures are changing the product texture by clicking in one of its variants, and selecting the objects and textures they would like to mask from their photogrametric version, in order to mask them and “clean“ the space before starting to add new digital products.
-In that way, IKEA Kreativ states yet another way of dealing with textures and touch. Minecraft example contains thousands of different textures, being able to reproduce hundreds of behaviours while Liquid Glass works with one texture that behaves in 8 distinct ways. Kreativ, on the other side, includes a huge library of textures, digitalizing all the physical materials contained in IKEA catalogue. But those do not contain a single behavior intertwined with them. The goal of textures here is to provide a notion of color and material aesthetic for composition purposes, evoquing only the most basic of its physical twin visual properties. 
-It is interesting to notice that, in comparison to the other examples, what is lacking in Kreativ textures is not the graphic part of its 3D mappings. Even when compared to Minecraft, their textures are visually much more “realistic“ and are evoquing physical materials people have a deep tactual knowledge of. The things missing in IKEA Kreativ are the holistic properties of touch: the way a material is supposed to sound, move, change and react to our touch, combining to help us really feel it.
-
-[Bring field observation on everything we touch in a day - we touch everything in a home]
+IKEA Kreativ (2022) is a tool launched by IKEA to let their clients digitally plan, visualize and shop for furniture. The experience starts with the creation of a 3D digital space, where users can choose from an existing showroom or build their own room through a mix of picture and space scan. The visuals and depth information collected are then analyzed by computer vision algorithms in order to detect walls, floor planes, furniture shapes, lighting and perspective; building something similar to a digital copy of it. After these base steps, the new digital room becomes directly edible: users can select the objects they would like to remove from the space and “clean it“ through AI Inpainting, a technique in which the pixels belonging to each object are recognized and covered by a masking layer of generative painting, reconstructing hidden parts of the background. Once the digital model of the room is ready, the last step is to place IKEAs products in it to see how they fit and look together. The furniture models use the previous computer calculations to sit realistically on floors and stop at walls, correct the brightness and shadows cast over them and scale the digital objects to correct proportions. Users can still rotate, move or replace objects to see other options or different colors and patterns from its variations. 
+This application was chosen as the last case study of this research in order to bring a digital twin perception on the usage of digital textures and touch. It will also serve to bridge our way into the last chapter, which will approach tactile interfaces to touch the digital. Digital twins can be defined as digital copies of a real-world object, entity or system, containing both its visuals and its properties while synchronizing data between them. It is mainly used for digital simulations of a real world application, such as: cities and buildings twins (simulate energy, transport, lightning), cars and aircraft twins (simulate speed, fuel consumption, engine health, components temperature), design twins (simulate materials behaviors, object usage, patterns and shapes compositions), among others. This field plays an important position in the realm of digital textures as it works closely with digital and physical materials, constantly having to translate them across these environments. As far as it goes though, most of these processes remain restricted to the design and production backstages, still rarely making their way to the general public (which takes place mostly in the form of digital try-ons). As the interest of this thesis remains in studying interactions built for broad audiences, IKEAs Kreativ approachable digital twins and physical products make it possible to analyze how those two are perceived and compared by users.
+The term texture when referring to digital twins and digital prototyping (the digital simulations of models before their physical production) have some particular properties. It can refer, as in video games, to the images applied onto each 3D product surface, giving its color and material appearance. It can also mean, in the cases where virtual try-ons are used, the visuals and lighting of real-world objects, spaces or people the digital twins interact with through cameras and pictures. At last, taking into consideration they also deal with the physical reality, it links back as well to the physical and tactile definition of texture as “the quality of something that can be decided by touch, for example whether it is rough or smooth, or soft or hard“ CAMBRIDGE UNIVERSITY PRESS & ASSESSMENT, 2025. “Texture” [online]. [Accessed 19 October 2025]. Available at: https://dictionary.cambridge.org/us/dictionary/english/texture. In Kreativ case, this corresponds to the images applied to the 3D furniture surface, the scanned picture deployed to create the digital version of the room and its masking layers, used to simulate the background visuals, as well as the actual physical materials employed to produce the physical twin of the simulated products.
+In that way, IKEA Kreativ states as well yet another way of dealing with textures and touch. Where Minecraft example contained thousands of different textures, and reproduced hundreds of behaviours, and Liquid Glass worked with one texture that behaved in 8 distinct ways; Kreativ includes a huge library of textures, digitalizing most of the physical materials contained in IKEA catalogue as well as bringing clients own rooms textures into the game. But those do not contain behaviors  intertwined with them, apart from the brightness and shadows casted over the digital objects that get inserted in the space. When we consider that this experience is supposed to come in hand with the user's physical interaction with the same products, something seems to be missing. 
+A possible reason for such a choice could be that, since engaging with a digital twin suggests at some point a touch stage with the actual physical product, building a complex digital material with multiple tactual behaviors could prove itself hard and risky. Users may have different sensorium interpretations of those and consider the comparison between both twins to be deceiving. Although a valid position, it is important to remember that many clients already return products for the same reason, because visuals-only can be very misleading if you plan on later engaging with a product in full senses.
+Another probable cause could be that, as mentioned by Frederic Frache during an interview about his experience with digital twins in Decathlon, “[extract of Frederic interview on how hard it is to keep digital and physical products updated]“.
+Whatever the reason, especially in IKEAs case, reducing their product's tactile experience to only its visual properties seems problematic. During two field observations on touch, one analyzing people's behaviors to tactile exchanges with objects in everyday activities and a second trying to document every touched surface in a day, I was able to collect interesting data corroborating that. In the first case, an interesting phenomenon was that people in general avoid touching things, if possible. Apart from some designed-to-touch surfaces (such as handrails, grab poles and door knobs) most people seem to pass through places with little or no tactual contact help, relying on sight, hearing or smell to guide them. The situation would drastically change as soon as they engaged in a shopping activity though. The act of choosing an item, no matter its category (clothing, food, furniture), to belong to you, seems to instantly requisite touch to make sure the candidate is a fitting choice. Before selecting any item, people would run their palms or fingers through them, pinch them or lightly squeeze them in their hands and evaluate their weight, temperature and general comfort to, only then, make the decision if they wanted to keep it or not. 
+During the second field observation, similar to the first results, I could easily document every touched surface I came in direct contact with for half a day, while visiting multiple sites. The moment I returned home, however, the number escalated so fast that I had to give up documentation after reaching 200. Both these exercises show an interesting and inconscient approach to touch: we tend to use it in things we consider to belong to us, or to appropriate new belonging parts. That is why I consider ignoring IKEAs products' tactual properties in Kreativ as extremely limiting to clients' engagement.
+It is interesting to notice that, in comparison to the other examples, what is lacking in Kreativ touch experience is not the graphic part of its 3D objects. Even when compared to Minecraft, their textures are visually much more “realistic“ and are evoquing physical materials people have a deep tactual knowledge of. The things missing in IKEA Kreativ are the holistic properties of touch: the way a material is supposed to sound, move, change and react to our touch, combining to help us to really feel it.
+[citation on Frederic’s comment on holistic properties of materials]
 
 [Conclusion]
 GLOSSARY OF DIGITAL TOUCH TOOLS
-
-AR
-VR
-AI
-PAINTER (SUBSTANCE)
-DESIGNER (SUBSTANCE)
-CLO3D
-
-
+AR (Augmented Reality) – An interactive experience that overlays digital elements (images, sounds, textures) onto the real world through devices like smartphones or AR glasses, blending physical and virtual touch sensations.
+VR (Virtual Reality) – A fully immersive digital environment that replaces the real world, allowing users to experience and interact with simulated spaces and objects, often enhanced through tactile feedback devices.
+AI (Artificial Intelligence) – Systems capable of learning, recognizing patterns, and generating responses or creations. In digital touch contexts, AI can simulate tactile behavior, predict gestures, or design responsive surfaces.
+Painter (Substance) – A texturing tool used to apply detailed materials, colors, and tactile effects directly onto 3D models, often mimicking realistic or stylized surface sensations.
+Designer (Substance) – A procedural material creation tool for building customizable textures and tactile patterns from scratch, used to define how a surface feels or reacts to touch in digital environments.
+CLO3D – A 3D garment simulation software that visualizes how fabrics drape, fold, and move, allowing designers to explore the tactile behavior of materials and the sensory experience of clothing in virtual form.
 
 Chapter 3 - Augmented Touch
 This last chapter is divided into two parts: on the first one we will, based on the information and insights collected before, weave the definition of Augmented Touch, proposing a hybrid way of touching and understanding textures, translating tactile inputs and feedback between humans and machines through tactile interfaces. On the second one, we will research what are the tools and projects being done today in which we could identify a potential usage of such a term.
@@ -113,3 +156,4 @@ Haptics
 
 Bibliography
 Apple Developer. (2025, June 10). WWDC25: Meet Liquid Glass | Apple [Video]. YouTube. Available at: https://www.youtube.com/watch?v=IrGYUq1mklk (Accessed: [insert access date, e.g., 17 October 2025]).
+
