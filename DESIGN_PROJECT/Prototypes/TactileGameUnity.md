@@ -14,5 +14,13 @@ Working test:
 ![alt text](REFs/portConnection.ERRORS.png)
 ![alt text](REFs/Led_Buttons.png)
 
-- LedOn C#: [code](REFs/LedOnOff2.cs)
+- LedOn Unity C#: [code](REFs/LedOnOff2.cs)
 - LedOn arduino IDE: [code](REFs/UnityLed.ino)
+
+## Vibration Motor on/off
+The second test was to make a mini vibration motor 2mm to turn on and off being controlled by the same unity buttons, to understand if the same logic of the led can be easly replicated for other components. The motor was simply wired with a 150ohm resistor and worked easly with a few adaptations to the arduino and unity script.
+
+![alt text](REFs/VibrationMotor.jpeg)
+
+- Vibration motor Unity c#: [code](REFs/VibrationMotor.cs)
+- Vibration motor arduino IDE: [code](REFs/VibrationMotor.ino)
