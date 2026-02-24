@@ -24,3 +24,8 @@ The second test was to make a mini vibration motor 2mm to turn on and off being 
 
 - Vibration motor Unity c#: [code](REFs/VibrationMotor.cs)
 - Vibration motor arduino IDE: [code](REFs/VibrationMotor.ino)
+
+
+## Spatial Lights location
+The objective of this third prototype is to test the spatial logic communication for future devellopment on the final project.
+A virtual NPC walk around a virtual space. The NPC general location is displayed physically by the activation of 8 different lights, which work as a compass, displaying the general direction of the NPC based on a fixed central origin (players location).
