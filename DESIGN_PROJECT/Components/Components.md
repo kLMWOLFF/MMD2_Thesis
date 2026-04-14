@@ -32,3 +32,9 @@
     https://de.aliexpress.com/item/1005011833568162.html?spm=a2g0o.order_list.order_list_main.41.750818020fXz6R&gatewayAdapt=glo2deu
 
 10. Magnets - **2mm coin magnet**
+
+11. Speaker - **MAX98357A + 13mm Bone Conduction Speakers 8ohm Bluetooth**
+    Bone Conduction Speaker:
+    https://de.aliexpress.com/item/1005011774443232.html?spm=a2g0o.order_list.order_list_main.10.6fa11802XPcjCq&gatewayAdapt=glo2deu
+    MAX98357A:
+    https://de.aliexpress.com/item/1005008455683459.html?spm=a2g0o.order_list.order_list_main.5.6fa11802XPcjCq&gatewayAdapt=glo2deu
