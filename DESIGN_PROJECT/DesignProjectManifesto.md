@@ -21,3 +21,11 @@ I'm an interactive designer with a background in Visual Arts, Fashion Design, an
         - Materials/ Materiality
         - TUIs
 
+
+## Blind Games references
+- Papa Sangre
+https://www.polygon.com/features/2013/8/6/4550490/blind-games-rock-vibe/
+https://audiomob.com/blog/six-of-the-best-audio-only-and-audio-first-video-games
+- https://blinddrivegame.com/
+- https://www.mentalhome.eu/feer/
+https://www.youtube.com/watch?v=xn6G2fxlsCU
