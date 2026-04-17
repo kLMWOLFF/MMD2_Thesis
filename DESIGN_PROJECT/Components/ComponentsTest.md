@@ -47,3 +47,17 @@ This is the general wiring to connect the ESP32-C3 with the DRV2605 haptic motor
 Copy the following code to IDE to test the connection between the 3 components. This is the general code that plays the whole library of haptic effects contained in the DRV2605 haptic Driver:
 
 [Play LRA basic library code](Codes/basic_LRA_Driver_ESP32.ino)
+
+---------
+
+### Test 4: Gyroscope (BMI160)
+General wiring to connect the ESP32-C3 with the BMI160.
+
+![alt text](<../IMG_ref/Screenshot 2026-04-17 145509.png>)
+![alt text](../IMG_ref/BMI160_1.jpeg)
+![alt text](../IMG_ref/BMI160_2.jpeg)
+![alt text](../IMG_ref/BMI160_3.jpeg)
+
+Code to test the gyroscope with the ESP32-C3:
+
+[Test if Gyro is ALIVE](Codes/Test_Gyro_ALIVE.ino)
